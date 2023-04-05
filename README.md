@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges" align="center">
- <a href="https://www.linkedin.com/in/thodoris-koutanis-30978560"/>
+ <a href="https://www.linkedin.com/in/george-koutanis-108541164/"/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
 </div>
